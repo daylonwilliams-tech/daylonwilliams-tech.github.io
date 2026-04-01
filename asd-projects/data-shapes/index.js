@@ -1,8 +1,4 @@
 
-Jacob Perkins <jacob.perkins@inspire35.org>
-9:02 AM (0 minutes ago)
-to me
-
 $(document).ready(function () {
   /////////////////////////////////////////////////
   // SETUP SECTION - DO NOT TOUCH /////////////////
